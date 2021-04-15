@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- YubiKey Gen -->
+    <usb-device vendor-id="0x1050" product-id="0x0010" />
+    <usb-device vendor-id="0x1050" product-id="0x0110" />
+
+    <!-- YubiKey NEO -->
+    <usb-device vendor-id="0x1050" product-id="0x0111" />
+    <usb-device vendor-id="0x1050" product-id="0x0112" />
+    <usb-device vendor-id="0x1050" product-id="0x0113" />
+    <usb-device vendor-id="0x1050" product-id="0x0114" />
+    <usb-device vendor-id="0x1050" product-id="0x0115" />
+    <usb-device vendor-id="0x1050" product-id="0x0116" />
+
+    <!-- YubiKey 4 & 5 -->
+    <usb-device vendor-id="0x1050" product-id="0x0401" />
+    <usb-device vendor-id="0x1050" product-id="0x0402" />
+    <usb-device vendor-id="0x1050" product-id="0x0403" />
+    <usb-device vendor-id="0x1050" product-id="0x0404" />
+    <usb-device vendor-id="0x1050" product-id="0x0405" />
+    <usb-device vendor-id="0x1050" product-id="0x0406" />
+    <usb-device vendor-id="0x1050" product-id="0x0407" />
+
+    <!-- Security Key Series -->
+    <usb-device vendor-id="0x1050" product-id="0x0120" />
+</resources>
